@@ -1,10 +1,21 @@
 body {
   margin: 0;
+  background-image: url("123.jpg");
+                background-position: center center;
+                background-repeat: no-repeat;
+                background-size: cover; 
+                background-attachment: fixed;
+                color : #f1f4f9;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
+    font-weight: 1000;
+    font-size: 24px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  opacity: 1;
+
+  
 }
 
 code {
