@@ -7,8 +7,8 @@ function Box({ value, onClick }) {
     padding: 0,
     margin: "8px",
     borderRadius: "5px",
-    backgroundColor: "rgb(142, 114, 244)",
-    color: "#765336",
+    /*backgroundColor: "rgb(142, 114, 244)",
+    color: "#765336",*/
     fontWeight: "900",
     border: 0,
     cursor: "pointer",
