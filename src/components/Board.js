@@ -98,7 +98,7 @@ function Board() {
         Reset
       </button>
 
-      <div style={{ marginTop: "15px" }}>
+      <div style={{ marginTop: "15px"; color: 'black'; }}>
         {gameEnd ? <span>{winner} : Won The Game</span> : <></>}
         {gameEnd ? <span> <br /> Game Over ...</span> : <></>}
       </div>
