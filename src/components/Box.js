@@ -9,6 +9,7 @@ function Box({ value, onClick }) {
     borderRadius: "5px",
     /*backgroundColor: "rgb(142, 114, 244)",
     color: "#765336",*/
+    border: "none",
     fontWeight: "900",
     border: 0,
     cursor: "pointer",
